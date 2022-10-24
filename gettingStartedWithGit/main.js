@@ -3,4 +3,5 @@ function doSomething(){
 }
 
 doSomething();
-"u mama is dik"
+
+"test";
